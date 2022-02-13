@@ -1,13 +1,13 @@
 # 网站标题
-title: Hexo主题
+title: M
 # 网站标题后缀
-suffix: Quiet
+suffix: Blog
 # 作者名称(会显示在首页文章下面)
 author: Meditation
 # 首页简介（显示在首页顶部Logo的那句话）
 home_describe: The Evolution of a Programmer.
 # 网站关键字
-keyword: hexo主题
+keyword: M ~ blog site
 is_article_img: false #false是否开启文章背景图显示(随机图片)
 # 网站描述
 web_description: 描述
@@ -31,7 +31,7 @@ menus:
 # logo
 logo: /image/logo.png
 # 网页标签上那个小图标 一定要用本地存储
-# icon: /image/favicon.ico
+icon: /image/favicon.ico
 # 每个页面上面的图表
 topIcon:
   homeIcon: "/image/logo.png"
