@@ -12,8 +12,6 @@
   justify-content: flex-start;
   align-items: center;
   flex-grow: 1;
-  position: absolute;
-  bottom: 26px;
 }
 .footer .contact {
   display: flex;
@@ -21,9 +19,6 @@
   justify-content: flex-end;
   align-items: center;
   flex-grow: 1;
-  position: absolute;
-  bottom: 26px;
-  right: 10px;
 }
 .footer .contact a {
   display: flex;
