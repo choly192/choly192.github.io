@@ -65,6 +65,12 @@ linksList:
       link: "https://choly192.github.io/",
       image: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg",
     }
+  - {
+      title: "github",
+      intro: "我的git地址",
+      link: "https://github.com/choly192",
+      image: "/image/artical-images/github.jpg",
+    }
 # 文字内点击图片放大相关配置
 picture:
   # 蒙版的颜色也就是 打开图片背景 显示的颜色
